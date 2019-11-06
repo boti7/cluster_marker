@@ -1,0 +1,12 @@
+name: cluster_marker
+description: Generates icons for displaying clusters of markers on a map.
+version: 0.0.1
+author: Botond Horvath <hello@boti7.com>
+homepage: https://github.com/boti7/cluster_marker
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
